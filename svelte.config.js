@@ -32,6 +32,7 @@ const config = {
         '/example',
         '/hello-QWER',
         '/my-first-post',
+        '/how-to-write',
         '/versions.json',
       ],
     },
