@@ -130,11 +130,6 @@ export const navConfig: NavConfigType = {
       ],
     },
     {
-      name: 'See Docs 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
-    },
-    {
       name: 'Get QWER 🚀',
       url: 'https://github.com/kwchang0831/svelte-QWER',
       rel: 'external',
@@ -145,21 +140,11 @@ export const navConfig: NavConfigType = {
       name: '關於',
       url: '/about',
     },
-    {
-      name: '查看文件 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
-    },
   ],
   'zh-Hans': [
     {
       name: '关于',
       url: '/about',
-    },
-    {
-      name: '查看文档 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
-      rel: 'external',
     },
   ],
 };
@@ -178,11 +163,6 @@ export const mobilenavConfig: MobileNavConfigType = {
         url: '/about',
       },
       {
-        name: 'See Docs 📄',
-        url: 'https://docs-svelte-qwer.vercel.app/',
-        rel: 'external',
-      },
-      {
         name: 'Get QWER 🚀',
         url: 'https://github.com/kwchang0831/svelte-QWER',
         rel: 'external',
@@ -196,11 +176,6 @@ export const mobilenavConfig: MobileNavConfigType = {
         name: '關於',
         url: '/about',
       },
-      {
-        name: '查看文件 📄',
-        url: 'https://docs-svelte-qwer.vercel.app/',
-        rel: 'external',
-      },
     ],
   },
   'zh-Hans': {
@@ -209,11 +184,6 @@ export const mobilenavConfig: MobileNavConfigType = {
       {
         name: '关于',
         url: '/about',
-      },
-      {
-        name: '查看文档 📄',
-        url: 'https://docs-svelte-qwer.vercel.app/',
-        rel: 'external',
       },
     ],
   },
