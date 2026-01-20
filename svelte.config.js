@@ -31,7 +31,6 @@ const config = {
         '/zh-Hant',
         '/example',
         '/hello-QWER',
-        '/quick-start',
         '/my-first-post',
         '/versions.json',
       ],
